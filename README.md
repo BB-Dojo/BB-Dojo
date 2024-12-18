@@ -7,11 +7,11 @@
 
 ## Martial Arts for the Body
 1. [Paid Online Lessons](https://buymeacoffee.com/soumyak4) | [Alternative](https://github.com/sponsors/SoumyaK4)
-2. For Offline Lessons [Contact Us](https://t.me/soumyak4)
+2. For Offline Lessons | [Contact Us](https://t.me/soumyak4)
 
 ## Projects
-- [x] [Weiqi - Baduk - Go Game Roadmap / Guide](https://weiqi.soumyak4.in) | [Backup](https://wq.soumyak4.in/categories/)
-- [ ] [Paid Pre-recorded Lessons](#) for Body & Brain
-- [x] [Paid Online Lessons](https://buymeacoffee.com/soumyak4) | [Alternative](https://github.com/sponsors/SoumyaK4)
+1. [Weiqi - Baduk - Go Game Roadmap / Guide](https://weiqi.soumyak4.in) | [Backup](https://wq.soumyak4.in/categories/)
+2. [Paid Online Lessons](https://buymeacoffee.com/soumyak4) | [Alternative](https://github.com/sponsors/SoumyaK4)
+3. [Paid Pre-recorded Lessons](#) for Body & Brain
 
-### Avatar by [Stoned on The Goban](https://www.instagram.com/stonedonthegoban/) <3
+### Logo by [Stoned on The Goban](https://www.instagram.com/stonedonthegoban/) <3
